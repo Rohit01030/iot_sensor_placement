@@ -67,7 +67,7 @@ Each plot shows:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Rohit01030/iot_sensor_placement
 cd iot_sensor_placement
 
 Step 2:- Install Dependencies
