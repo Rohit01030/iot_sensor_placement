@@ -64,7 +64,11 @@ Each plot shows:
 ---
 
 ## ⚙️ How to Run Locally
+🧾 License
 
+This project is open-source and available under the MIT License
+.
+You are free to modify, distribute, and use it for academic or research purposes with attribution.
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Rohit01030/iot_sensor_placement
@@ -85,3 +89,15 @@ http://localhost:8501
 Rohit Kumar
 B.Tech CSE (IV Semester) – Delhi Technical Campus
 Affiliated to GGSIPU, New Delhi
+
+
+ 🧾 License
+
+This project is open-source and available under the MIT License
+.
+You are free to modify, distribute, and use it for academic or research purposes with attribution.
+
+⭐ If you found this project helpful, please star the repository on GitHub!
+It encourages continued learning and open-source contribution.
+
+ 
