@@ -1,0 +1,25 @@
+{
+  "n_points": 15,
+  "n_candidates": 25,
+  "radius": 30.0,
+  "greedy": {
+    "selected": [
+      6,
+      17,
+      15,
+      2
+    ],
+    "count": 4,
+    "time_ms": 0.027418136596679688
+  },
+  "energy_aware": {
+    "selected": [
+      6,
+      18,
+      16,
+      3
+    ],
+    "count": 4,
+    "time_ms": 0.023365020751953125
+  }
+}
