@@ -70,3 +70,18 @@ Each plot shows:
 git clone https://github.com/your-username/iot_sensor_placement.git
 cd iot_sensor_placement
 
+Step 2:- Install Dependencies
+pip install streamlit matplotlib numpy
+
+Step 3:- Run the Application
+streamlit run app.py
+
+Step 4:- Open in Browser
+http://localhost:8501
+
+
+👨‍💻 Author
+
+Rohit Kumar
+B.Tech CSE (IV Semester) – Delhi Technical Campus
+Affiliated to GGSIPU, New Delhi
